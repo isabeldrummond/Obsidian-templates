@@ -1,11 +1,13 @@
-# Zotero - Obsidian integration
+# Zot-obs notes template
 This readme will be filled out soon :)
 
 In the meantime,
 ## how to use it
+**mandatory plugin on obsidian:** [obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) by mgmeyers.
+
 feel free to use [zot_guide](zot_guide) as an annotation rulebook for how to highlight and notetake on zotero- i recommend keeping that file open on the right side zotero banner.
 
-use [zot_int.md](zot_int.md) as your template!
+<br>use [zot_int.md](zot_int.md) as your template!
 
 ## preview how it works
 ### zot screen preview
