@@ -13,4 +13,4 @@ use [zot_int.md](zot_int.md) as your template!
 ![image](https://github.com/user-attachments/assets/553990dd-6185-4600-94cb-8782f11f910e)
 
 ### Made with love,
-###   -  Isabel  
+###   -  [Isabel](https://isabeldrummond.ca)
